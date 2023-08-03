@@ -28,6 +28,8 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 #### BackEnd
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
+[![NodeJS](https://img.shields.io/badge/NodeJS-005571?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![NestJS](https://img.shields.io/badge/NestJS-005571?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)]()
 
 #### Computer Vision
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=101010)]()
@@ -54,6 +56,7 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 
 ### Prototyping Platforms
 [![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white&labelColor=101010)]()
