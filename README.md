@@ -26,6 +26,8 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 [![React](https://img.shields.io/badge/React-16B7FB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 
 #### BackEnd
+[![Node.JS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![NestJS](https://img.shields.io/badge/nestjs-DC322F?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
 
@@ -52,6 +54,7 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 [![SVN](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white&labelColor=101010)]()
 
 ### Databases
+[![Postgresql](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 
@@ -63,6 +66,8 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=101010)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=101010)]()
 [![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010)]()
+[![GoLand](https://img.shields.io/badge/goland-5C2D91?style=for-the-badge&logo=goland&logoColor=white&labelColor=101010)]()
+
 
 -----
 Credits: [Francisco Pelegri Santamaria](https://github.com/fpelegri)
