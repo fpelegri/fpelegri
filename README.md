@@ -38,11 +38,15 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 ### Software Testing
 [![Cypress](https://img.shields.io/badge/Cypress-F7DF1E?style=for-the-badge&logo=cypress&logoColor=white&labelColor=101010)]()
 
-<img src="https://d288qud2qgn4l3.cloudfront.net/media/schemas/CTFL-new.jpg" width=150>
+<img src="" width=150>
 
 ### Cloud Computing
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
 [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
+
+#### Google Cloud - Professional CLoud Developer Certification
+<img src="https://images.credly.com/size/680x680/images/614465c6-1d80-4ae6-a323-753de224422a/image.png" width=200>
+
 
 ### Operating Systems
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
