@@ -38,7 +38,7 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 ### Software Testing
 [![Cypress](https://img.shields.io/badge/Cypress-F7DF1E?style=for-the-badge&logo=cypress&logoColor=white&labelColor=101010)]()
 
-<img src="" width=150>
+<img src="https://d288qud2qgn4l3.cloudfront.net/media/schemas/CTFL-new.jpg" width=150>
 
 ### Cloud Computing
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
