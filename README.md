@@ -41,7 +41,7 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 <img src="./ISTQB_CTFL_badge.png" width=200>
 
 ### Cloud Computing
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
 
 #### Google Cloud - Professional Cloud Developer Certification
@@ -76,4 +76,4 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 -----
 Credits: [Francisco Pelegri Santamaria](https://github.com/fpelegri)
 
-Last Edited on: 30/AUG/2023
+Last Edited on: 01/JUL/2024
