@@ -44,7 +44,7 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
 [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
 
-#### Google Cloud - Professional CLoud Developer Certification
+#### Google Cloud - Professional Cloud Developer Certification
 <img src="./GCP_PCD_badge.png" width=200>
 
 
