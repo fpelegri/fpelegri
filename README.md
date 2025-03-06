@@ -13,6 +13,8 @@
 
 _As a strong analytical problem-solver with an innovative spirit, I am driven by targets and take ownership of my work. I excel at simplifying complex issues, consistently exceeding customer expectations by balancing quality and speed, and delivering results on time. With a proven track record of successful collaboration with teams and individuals, I am confident in my ability to continuously achieve my goals. Additionally, I am a proactive, organized, and sociable individual who is always willing to go the extra mile._
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q01BK71O)
+
 ## Tech Stack
 ### Software Development
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -71,7 +73,6 @@ _As a strong analytical problem-solver with an innovative spirit, I am driven by
 [![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=101010)]()
 [![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010)]()
 [![GoLand](https://img.shields.io/badge/goland-5C2D91?style=for-the-badge&logo=goland&logoColor=white&labelColor=101010)]()
-
 
 -----
 Credits: [Francisco Pelegri Santamaria](https://github.com/fpelegri)
